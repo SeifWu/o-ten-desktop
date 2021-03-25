@@ -5,9 +5,10 @@
   "dependencies": {
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
-    "@emotion/styled": "latest",
     "@emotion/server": "latest",
+    "@emotion/styled": "latest",
     "@material-ui/core": "next",
+    "@umijs/fabric": "^2.5.7",
     "clsx": "latest",
     "next": "latest",
     "react": "latest",
@@ -23,6 +24,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "prettier": "2.2.1",
     "typescript": "latest"
   }
 }
