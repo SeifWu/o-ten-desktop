@@ -6,7 +6,7 @@ import { CacheProvider } from '@emotion/react';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import createCache from '@emotion/cache';
 import theme from '../src/theme';
-import Layout from '@/components/layout';
+import Layout from '@/components/Layout';
 
 export const cache = createCache({ key: 'css', prepend: true });
 
