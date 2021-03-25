@@ -19,6 +19,7 @@
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "baseUrl": ".",
     "paths": {
       "@/*": ["./*"],
       "@@/*": ["./components/*"]
