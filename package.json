@@ -14,7 +14,8 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-slick": "^0.28.1"
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "dev": "next -p 8089",
