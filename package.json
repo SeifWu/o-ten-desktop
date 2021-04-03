@@ -13,7 +13,8 @@
     "clsx": "latest",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-slick": "^0.28.1"
   },
   "scripts": {
     "dev": "next -p 8089",
